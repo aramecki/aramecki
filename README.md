@@ -1,6 +1,6 @@
 # About Me:
 I'm just a developer with a heart for every form of creativity.
-- Currently learning Information Security on freeCodeCamp.
+- Currently improving my Kotlin skills for a new project.
 - Looking to collaborate on open source projects.<br>
 
 ## Socials:
