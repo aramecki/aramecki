@@ -1,7 +1,7 @@
 # About Me:
 I'm just a developer with a heart for every form of creativity.
-- Currently improving my Kotlin skills for a new project.
-- Looking to collaborate on open source projects.<br>
+- Currently collaborating on a newborn open source project.
+- Looking for new challenges.<br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loretereo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/desimonel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ldsdeveloper@pm.me) 
