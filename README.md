@@ -1,6 +1,6 @@
 # About Me:
 I'm just a developer with a heart for every form of creativity.
-- Currently collaborating on a newborn open source project.
+- Currently improving my skills by developing a Flutter multiplatform app.
 - Looking for new challenges.<br>
 
 ## Socials:
