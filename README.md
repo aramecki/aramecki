@@ -1,7 +1,10 @@
 # About Me:
 I'm just a developer with a heart for every form of creativity.
-- Currently improving my skills by developing a Flutter multiplatform app.
+- Currently improving my skills by developing the Flutter multiplatform reboot of MyCarGenie app.
 - Looking for new challenges.<br>
+
+## I NEED YOU:
+I'm currently looking for translators in every European language for MyCarGenie app. The project is OpenSource so feel free to share your translation or just message me for informations. Every relevant contributor's name will be permanently added to the project git readme.
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loretereo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/desimonel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ldsdeveloper@pm.me) 
